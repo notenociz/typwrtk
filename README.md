@@ -1,4 +1,4 @@
-# TYPWRTK [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/enociz/badges/issues) [![HitCount](https://hitt.herokuapp.com/enociz/badges.svg)](https://github.com/enociz/badges)
+# TYPWRTK [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/enociz/typwrtk/issues) [![HitCount](https://hitt.herokuapp.com/enociz/typwrtk.svg)](https://github.com/enociz/typwrtk)
 
 A simple page that uses local storage to help you to write notes on the go — [Use it!](http://typwr.tk) (it's pronounced Typewrite K, btw).
 
